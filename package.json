@@ -1,0 +1,22 @@
+{
+  "name": "uk-postcode-enricher",
+  "version": "1.0.0",
+  "description": "A web application to enrich UK postcodes with additional data using the postcodes.io API",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "postcode",
+    "uk",
+    "enrichment",
+    "api",
+    "csv"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
