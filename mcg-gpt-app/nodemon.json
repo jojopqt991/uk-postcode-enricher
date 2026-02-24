@@ -1,5 +1,0 @@
-{
-  "watch": ["server/src"],
-  "ext": "ts,json",
-  "exec": "node --env-file=.env --import tsx/esm server/src/index.ts"
-}
